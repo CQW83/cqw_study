@@ -1,0 +1,8 @@
+哈哈
+哈哈
+哈哈
+哈哈
+0 [main] DEBUG com.company.log.Pro - 哈哈
+9 [main] INFO  com.company.log.Pro - 哈哈
+9 [main] WARN  com.company.log.Pro - 哈哈
+9 [main] ERROR com.company.log.Pro - 哈哈

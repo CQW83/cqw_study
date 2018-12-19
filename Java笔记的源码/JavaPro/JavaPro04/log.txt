@@ -1,0 +1,5 @@
+0 [main] DEBUG com.company.log.Main - 123
+7 [main] INFO  com.company.log.Main - 123
+7 [main] WARN  com.company.log.Main - 123
+7 [main] ERROR com.company.log.Main - 123
+7 [main] FATAL com.company.log.Main - 123
