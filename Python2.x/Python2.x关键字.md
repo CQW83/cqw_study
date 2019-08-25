@@ -1,0 +1,35 @@
+pyrhon的保留字|含义
+----|----
+False|布尔类型 表示假与True相反
+True|布尔类型 表示真与False相反
+None|表示什么都没有，数据类型为NoneType
+and|用于表达式运算，逻辑与
+as|用于类型转换
+assert|用于判断变量活条件表达式是否为真
+break|中断循环语句的执行
+class|用于定义类
+continue|跳出本次循环，继续执行下一次循环
+def|用于定义函数或方法
+del|删除变量或序列的值
+elif|条件语句与if、else结合使用
+else|条件语句，与if、elif结合使用。也可用于异常和循环
+except|捕获异常后执行得代码块、与try、finally结合使用
+finally|用于异常语句，出现异常后，最终要执行的代码块，与try、except结合使用
+for|循环语句
+from|用于导入模块，与import结合使用
+global|定义全局变量
+if|条件语句，与else、elif结合使用
+import|用于导入模块，与from结合使用
+in|判断变量是否存在序列中
+is|判断变量是否为某个类的实例
+lambda|定义匿名函数
+nonlocal|标识外部作用的变量
+not|用于表达式运算，逻辑非
+or|用于表达式运算，逻辑或
+pass|空的类，方法或函数的占位符
+raise|抛出异常
+return|用于从函数返回计算结果
+try|包含可能会出现的异常语句，与except、finally结合
+while|while循环语句
+with|简化python的语句
+yield|用于从函数一次返回值
